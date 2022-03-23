@@ -33,6 +33,6 @@ public class Main {
                 index = j;
             }
         }
-        System.out.println("\n"+"The largest property value in the list is " + max + " ,at position " + index);
+        System.out.println("\n" + "The largest property value in the list is " + max + " ,at position " + index);
     }
 }
